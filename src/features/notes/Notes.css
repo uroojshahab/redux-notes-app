@@ -1,0 +1,16 @@
+.notes-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 20px;
+    padding: 10px;
+  }
+  
+  .empty-message {
+    color: #888;
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+  }
+  
